@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.myapp.divvybuy"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "divvybuy",
+    "packageName": "org.myapp.divvybuy",
+    "packageFolder": "org/myapp/divvybuy",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTI3MDM4NGJkODhhNGFmYzZhN2JjMjQ4ZTY0YmRmMDA4ZmQwN2Q0NmEwNmI5N2JkMzg1NDBlZDk2NGYxNjdjZDJlN2ZjN2Y1YmFmN2U0OGFhMTgyMjYwMTI5NjJlMTA2MWRkOTY2ZGQ1MjNkOGQzYzJhODlmMDZjMDI2OTdhMTI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1583438905734,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
